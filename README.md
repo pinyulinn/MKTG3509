@@ -1,1 +1,1 @@
-# MKTG3509 customer data analytic
+# MKTG3509 Customer Data Analytic
