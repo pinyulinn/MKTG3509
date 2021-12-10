@@ -4,7 +4,7 @@ This portfolio include what I've learned fron MKTG3509 Customer Data Analytics. 
 ## My Résumé
 - [Résumé](https://colab.research.google.com/drive/1GoWgClexFmufKvwZoAtm4qa3aGJzJsz-?usp=sharing)
 
-## Works of mine (The assignment from the class)
+## Works Of Mine (The assignment from the class)
 1.  [**Programing Fundamental**](https://colab.research.google.com/drive/135BCNBeGWWeKcjx-NfKUkSWniqxDAUS3?usp=sharing)
 
 2. [**Working with Data**](https://colab.research.google.com/drive/1rAOj9R8KrdXBhf3AsZ5kvdRaNArKfJHw?usp=sharing)
